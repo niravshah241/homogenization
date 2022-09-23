@@ -14,8 +14,11 @@
         <Attribute Name="Temperature" AttributeType="Scalar" Center="Node">
           <DataItem Dimensions="46 1" Format="HDF">temperature.h5:/VisualisationVector/0</DataItem>
         </Attribute>
-        <Attribute Name="f_15" AttributeType="Vector" Center="Node">
+        <Attribute Name="f_642" AttributeType="Vector" Center="Node">
           <DataItem Dimensions="46 3" Format="HDF">temperature.h5:/VisualisationVector/1</DataItem>
+        </Attribute>
+        <Attribute Name="f_616" AttributeType="Vector" Center="Node">
+          <DataItem Dimensions="46 3" Format="HDF">temperature.h5:/VisualisationVector/2</DataItem>
         </Attribute>
       </Grid>
     </Grid>
